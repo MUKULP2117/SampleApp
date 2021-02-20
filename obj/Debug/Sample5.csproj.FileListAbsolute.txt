@@ -49,3 +49,4 @@ C:\Users\MUKUL\source\repos\Sample5\Sample5\obj\Debug\Sample5.csproj.CoreCompile
 C:\Users\MUKUL\source\repos\Sample5\Sample5\obj\Debug\Sample5.csproj.CopyComplete
 C:\Users\MUKUL\source\repos\Sample5\Sample5\obj\Debug\Sample5.dll
 C:\Users\MUKUL\source\repos\Sample5\Sample5\obj\Debug\Sample5.pdb
+C:\Users\MUKUL\source\repos\Sample5\Sample5\bin\MySql.Data.dll
